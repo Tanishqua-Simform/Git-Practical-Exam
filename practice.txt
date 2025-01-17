@@ -3,3 +3,7 @@ Hello,
 So this is the sub-branch of TE-T161-Git Feature Branch.
 
 Here, I will be performing Squash, Reset, Rebase and Cherry-pick
+
+This line was added in commit 2
+
+This line was added in commit 3
