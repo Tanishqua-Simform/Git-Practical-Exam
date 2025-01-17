@@ -11,3 +11,5 @@ This line was added in commit 3
 (Commit 4 got reset)
 
 This is commit 5 and it will be cherry-picked to feature branch.
+
+This is commit 6 and it won't be cherry-picked.
