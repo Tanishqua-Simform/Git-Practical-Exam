@@ -7,3 +7,7 @@ Here, I will be performing Squash, Reset, Rebase and Cherry-pick
 This line was added in commit 2
 
 This line was added in commit 3
+
+(Commit 4 got reset)
+
+This is commit 5 and it will be cherry-picked to feature branch.
